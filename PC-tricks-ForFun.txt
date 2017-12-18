@@ -1,6 +1,5 @@
 Update von Manu!
-
-
+Repix
 
 
 Here you can find the necessary code for the listed tricks. 
@@ -202,29 +201,5 @@ sapi.Speak message
 Shutdown.exe -s -t 10
 cls
 msg * your message here!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
